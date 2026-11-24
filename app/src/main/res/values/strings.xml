@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">اقرأ</string>
+    <string name="library_subtitle">ديوان المعرفة والزجاج</string>
+    <string name="nav_library">المكتبة</string>
+    <string name="nav_authors">المؤلفون</string>
+    <string name="nav_favorites">مفضّلتي</string>
+    <string name="nav_about">عن التطبيق</string>
+    <string name="search_hint">ابحث عن كتاب أو مؤلف…</string>
+    <string name="all_authors">كل الأقسام</string>
+    <string name="books_count_format">%d كتب</string>
+    <string name="developer_section_title">تطوير وتصميم</string>
+    <string name="developer_name">المهندس أحمد إسماعيل</string>
+    <string name="developer_email">ahmdtompx@gmail.com</string>
+    <string name="contact_developer">تواصل عبر البريد الإلكتروني</string>
+    <string name="copy_email">نسخ البريد الإلكتروني</string>
+    <string name="email_copied">تم نسخ البريد الإلكتروني</string>
+    <string name="no_email_app">لا يوجد تطبيق بريد إلكتروني، تم نسخ العنوان</string>
+</resources>
